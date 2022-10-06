@@ -1,4 +1,4 @@
-Intent: Determine whether a Customer will accept the Coupon?
+Intent: Determine whether a Customer will accept the Coupon or not.
 
 Context:
 
